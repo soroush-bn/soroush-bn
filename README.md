@@ -1,8 +1,8 @@
 ![my banner](https://media-exp1.licdn.com/dms/image/D4E16AQGObPccKIqEDw/profile-displaybackgroundimage-shrink_350_1400/0/1670265240215?e=1675900800&v=beta&t=lh5EoFvDYm-dE7kN2HQuc78BReqmLsrDasd2EQkaIIo)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Soroush</h2>
+<!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Soroush</h2> -->
 
-<!-- ## 👋 &nbsp;Hey there! I'm Soroush -->
+## Hey there! I'm Soroush
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can email me at the email on top, and I will respond as soon as I read it.
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,6 +40,3 @@
 <a href="https://linkedin.com/in/soroushbaghernezhad"><img src="https://img.shields.io/badge/-Soroush%20Baghernezhad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:soroush.baghernezhad3@gmail.com"><img src="https://img.shields.io/badge/-soroushbaghernezhad3@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
