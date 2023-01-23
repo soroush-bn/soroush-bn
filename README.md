@@ -1,5 +1,5 @@
-![my banner](https://media-exp1.licdn.com/dms/image/D4E16AQGObPccKIqEDw/profile-displaybackgroundimage-shrink_350_1400/0/1670265240215?e=1675900800&v=beta&t=lh5EoFvDYm-dE7kN2HQuc78BReqmLsrDasd2EQkaIIo)
-
+<!-- ![my banner](https://media-exp1.licdn.com/dms/image/D4E16AQGObPccKIqEDw/profile-displaybackgroundimage-shrink_350_1400/0/1670265240215?e=1675900800&v=beta&t=lh5EoFvDYm-dE7kN2HQuc78BReqmLsrDasd2EQkaIIo)
+ -->
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Soroush</h2> -->
 
 ## Hey there! I'm Soroush
@@ -25,14 +25,14 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+<!-- ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/soroush-bn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=soroush-bn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=soroush-bn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</p> -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
