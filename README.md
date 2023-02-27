@@ -9,7 +9,6 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at Ferdowsi University of Mashhad.\
 🎓 &nbsp;I used to be an Android developer but I quited it for a while to do more academic stuff.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, especially RL branch.\
-✍️ &nbsp;In my free time, I hit the gym to reverse the long hours of coding impacts on my body.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
