@@ -1,5 +1,8 @@
 
 
+Hi,
+I am a CS student doing my master degree at MUN. I was a software developer for two year (android applications). then I got interested in NLP and now I'm doing research on prosthetic hand controls.
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
