@@ -1,7 +1,7 @@
 
 
 Hi,
-I am a CS student doing my master degree at MUN. I was a software developer for two year (android applications). then I got interested in NLP and now I'm doing research on prosthetic hand controls.
+I am a CS student doing my master degree at MUN. I am a Software Engineer/ Machine learning Engineer. I'm doing a thesis right now and its about prosthetic control using wearable devices. 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
