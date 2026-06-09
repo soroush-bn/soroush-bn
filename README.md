@@ -2,7 +2,7 @@
 
 Hi,
 I am a CS student doing my master degree at MUN. I am a Software Engineer/ Machine learning Engineer. I'm doing a thesis right now and its about prosthetic control using wearable devices. 
-
+[![Soroush's GitHub stats](https://github-readme-stats.vercel.app/api?username=soroush-bn)](https://github.com/soroush-bn/github-readme-stats)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
