@@ -1,8 +1,7 @@
 
 
 Hi,
-I am a CS student doing my master degree at MUN. I am a Software Engineer/ Machine learning Engineer. I'm doing a thesis right now and its about prosthetic control using wearable devices. 
-
+I am a CS student doing my master degree at MUN. I am a Researcher/ ML engineer/ Software Engineer. 
 
 ![soroush-bn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=soroush-bn&theme=tokyonight&hide_border=false)
 
